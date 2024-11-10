@@ -10,5 +10,5 @@
 2. Aplikasi Konversi Suhu (Done)
 3. Aplikasi Penghitung Diskon (Done)
 4. Aplikasi Penghitung Hari (Done)
-5. aplikasi Penghitung Kata (Coming soon)
-6. Aplikasi Cek Cuaca (Coming soon)
+5. aplikasi Penghitung Kata (Done)
+6. Aplikasi Cek Cuaca (Done)
