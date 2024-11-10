@@ -9,6 +9,6 @@
 1. Aplikasi Cek Angka ganjil Genap (Done)
 2. Aplikasi Konversi Suhu (Done)
 3. Aplikasi Penghitung Diskon (Done)
-4. Aplikasi Penghitung Hari (Coming soon)
+4. Aplikasi Penghitung Hari (Done)
 5. aplikasi Penghitung Kata (Coming soon)
 6. Aplikasi Cek Cuaca (Coming soon)
